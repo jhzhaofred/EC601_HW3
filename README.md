@@ -31,6 +31,8 @@ If there are more than one elements in one entry, such as RGB channels, then the
     H: 165 S: 97 V: 34 (Range for H: 0, 360; Range for S, V: 0, 100)
 
 # Exercise 4
+1. Adaptive Thresholding gives the best result, Band Thresholding gives the most blurry result.
+![alt text](https://github.com/jhzhaofred/EC601_HW3/blob/master/images/threshold.png)
 
 2. Obviously, binary threshold will cause information lost because it only has one threshold value. This issue becomes more         significant when the image has complicated brightness.
 
