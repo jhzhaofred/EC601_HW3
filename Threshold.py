@@ -18,8 +18,6 @@ img = cv2.imread(filename,1)
 gray = cv2.cvtColor(img,cv2.COLOR_RGB2GRAY)
 
 cv2.imshow('Input Image',img)
-
- # 0: Binary,      1: Binary Inverted,      2: Threshold Truncated,      3: Threshold to Zero,      4: Threshold to Zero Inverted    
   
 threshold_type = 2
 threshold_value = 128
