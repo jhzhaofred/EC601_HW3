@@ -3,6 +3,9 @@ import cv2
 import numpy as np
 import sys
 
+# Usage: 
+# For example: $ python ColorImage.py /Test_images/baboon.jpg
+
 try:
 	filename = sys.argv[1]
 except:
