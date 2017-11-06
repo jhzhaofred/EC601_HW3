@@ -14,6 +14,8 @@ If there are more than one elements in one entry, such as RGB channels, then the
 
 2. Y is luminance. Cb and Cr are blue and red color differences, repectly.
 
+As we can see in Cr red goes white while in Cb blue goes white.
+
 <img src="https://github.com/jhzhaofred/EC601_HW3/blob/master/images/Y.png" width = "270" height = "280" alt="Keyboard" align=center /> <img src="https://github.com/jhzhaofred/EC601_HW3/blob/master/images/cb.png" width = "270" height = "280" alt="Keyboard" align=center /> <img src="https://github.com/jhzhaofred/EC601_HW3/blob/master/images/cr.png" width = "270" height = "280" alt="Keyboard" align=center />
 
 # Referring
