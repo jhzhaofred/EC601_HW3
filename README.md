@@ -12,7 +12,9 @@ If there are more than one elements in one entry, such as RGB channels, then the
 
 1. Tested all the input images. RGB shows images in different channels and the pictrues look different in different color channels. For example, the "baboon.jpg" has very obivious color differences on the baboon's nose. The nose is nearly white in the red channel, while it shows black in green and blue channels.
 
-    Y is luminance. Cb and Cr are blue and red color differences, repectly. As we can see, in Cr red goes darker while in Cb blue goes darker.
+    Y is luminance. Cb and Cr are blue and red color differences, repectly. As we can see, in Cr red goes darker while in Cb blue goes darker. For other images, such as "cameraman.png", the some of output images went totally grey or black because the original images were black-and-white themselves.
+    
+    Hue is the tint of the color. By testing several pixels, I found that in Hue channel red pixels give small values and blue pixels give large values.
 
 <img src="https://github.com/jhzhaofred/EC601_HW3/blob/master/images/Original.png" width = "270" height = "280" alt="Keyboard" align=center /> <img src="https://github.com/jhzhaofred/EC601_HW3/blob/master/images/Y.png" width = "270" height = "280" alt="Keyboard" align=center />
 
