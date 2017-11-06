@@ -31,5 +31,7 @@ If there are more than one elements in one entry, such as RGB channels, then the
 # Exercise 4
 Obviously, binary threshold will cause information lost because it only has one threshold value. This issue becomes more significant when the image has complicated brightness.
 
+Adaptive Thresholding is useful to deal with the issue listed above. It generates different threshold in different areas of the image so that the image will not lose much information.
+
 # Referring
 http://aishack.in/tutorials/opencvs-interface/
