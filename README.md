@@ -37,5 +37,7 @@ Adaptive Thresholding is useful to deal with the issue listed above. It generate
 
 # Referring
 http://aishack.in/tutorials/opencvs-interface/
+
 https://docs.opencv.org/trunk/d7/d4d/tutorial_py_thresholding.html
+
 https://docs.opencv.org/2.4/modules/imgproc/doc/miscellaneous_transformations.html
