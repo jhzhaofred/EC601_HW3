@@ -1,5 +1,5 @@
 # EC601_HW3
-Picked Exercise 1, 2 and 4
+Picked Exercise 1, 2 and 4.
 
 # Exercise 1
 How does a program read the cvMat object, in particular, what is the order of the pixel structure?
