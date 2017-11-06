@@ -28,7 +28,8 @@ If there are more than one elements in one entry, such as RGB channels, then the
 
     H: 165 S: 97 V: 34 (Range for H: 0, 360; Range for S, V: 0, 100)
 
-
+# Exercise 4
+Obviously, binary threshold will cause information lost because it only has one threshold value. This issue becomes more significant when the image has complicated brightness.
 
 # Referring
 http://aishack.in/tutorials/opencvs-interface/
