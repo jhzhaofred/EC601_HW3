@@ -1,6 +1,5 @@
 # Copyright 2017 Jiahao Zhao jiahao1@bu.edu
 import cv2
-import numpy as np
 import sys
 
 # Usage: 
